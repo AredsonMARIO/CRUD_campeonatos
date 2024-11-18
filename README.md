@@ -16,7 +16,7 @@ Para executar este projeto, é necessário ter o [XAMPP](https://www.apachefrien
 
 1. Após instalar o XAMPP, localize a pasta `htdocs`, que está dentro da pasta de instalação do XAMPP. Por padrão, o caminho no Windows é:
 
-
+2. para acessar digite no navegador localhost/CRUD_campeonatos/index.php
 
 # Tecnologias Utilizadas
 - PHP: Para a lógica do servidor e manipulação de dados.
